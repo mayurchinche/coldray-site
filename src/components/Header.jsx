@@ -6,14 +6,14 @@ function Header() {
       <div style={styles.container}>
         {/* Centered Logo */}
         <div style={styles.logoContainer}>
-          <img src="/logo.png" alt="ColdRay Logo" style={styles.logo} />
+          <img src="/logo.svg" alt="ColdRay Logo" style={styles.logo} />
         </div>
 
         {/* Nav on Right */}
         <nav style={styles.navLinks}>
           <NavLink to="/" style={navLinkStyle} end>Home</NavLink>
           <NavLink to="/about" style={navLinkStyle}>About Us</NavLink>
-          <NavLink to="/contact" style={navLinkStyle}>Contact</NavLink>
+          <NavLink to="/contact" style={navLinkStyle}>Contact Us</NavLink>
         </nav>
       </div>
     </header>
