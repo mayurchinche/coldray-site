@@ -25,19 +25,21 @@ function Contact() {
     },
 
     description: {
-      marginTop:'20px',
-      marginBottom: '20px',
+      marginTop:'10px',
+      marginBottom: '10px',
       fontSize: '1.125rem',
       lineHeight: '2',
       color: '#444',
     },
     central: {
+      marginTop: '50px',
       aling:'center',
       letterSpacing: '1px',
       fontSize: '1.5rem',
       fontWeight: '300', // keeps it NOT bold
+      color: '#222',
+      fontFamily: 'GoodTime, sans-serif',
       lineHeight: '1.8',
-      color: '#444',
       marginBottom: '10px',
     },
 
