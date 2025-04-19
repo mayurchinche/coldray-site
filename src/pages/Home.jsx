@@ -28,6 +28,7 @@ const styles = {
     fontSize: '3rem',
     color: '#222',
     letterSpacing: '2px',
+    fontFamily: 'GoodTime, sans-serif',
     fontWeight: '300', // keeps it NOT bold
     marginBottom: '20px',
     textTransform: 'uppercase',
