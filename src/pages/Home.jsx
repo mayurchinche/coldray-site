@@ -18,16 +18,17 @@ function Home() {
 
 const styles = {
   container: {
-    padding: '60px 20px',
+    padding: '20px 20px',
     maxWidth: '700px',
     margin: '0 auto',
     textAlign: 'center',
     fontFamily: "'Helvetica Neue', sans-serif",
   },
   heading: {
-    fontSize: '3rem',
+    fontSize: '2.5rem',
     color: '#222',
-    letterSpacing: '2px',
+    aling:'center',
+    letterSpacing: '1px',
     fontFamily: 'GoodTime, sans-serif',
     fontWeight: '300', // keeps it NOT bold
     marginBottom: '20px',
