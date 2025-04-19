@@ -2,7 +2,7 @@ function Footer() {
     return (
       <footer style={styles.footer}>
         <p>© 2025. All Rights Reserved.</p>
-        <a href="https://www.linkedin.com/in/vrushalphadnis/?originalSubdomain=in" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/company/coldrayplasmalabs" target="_blank" rel="noopener noreferrer">
           <img
             src="/linkedin-icon.png" // Add a LinkedIn icon in public folder
             alt="LinkedIn"
